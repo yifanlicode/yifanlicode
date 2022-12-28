@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yifanlicode
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Java/Python/Php at RRC Canada
+- 🌱 I’m currently learning Full Stack Web Development at RRC Canada
 - 📫 How to reach me:liyifan2019@gmail.com
 
 <!---
