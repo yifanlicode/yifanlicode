@@ -1,7 +1,8 @@
-- 👋 Hey there, I'm @yifanlicode!
+- 👋 Hey there, I'm Yifan
 - 👀 Passionate about coding and all things tech
-- 🌱 Currently mastering Full Stack Web Development at RRC Canada
-- 📫 Get in touch with me: liyifan2019@gmail.com
+- 🌱 Currently mmastering front-end and back-end web development at RRC Canada
+- 💻 Working on personal projects to apply what I've learned and improve my skills
+- 📫 yifanlicode@gmail.com
 
 <!---
 yifanlicode/yifanlicode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
