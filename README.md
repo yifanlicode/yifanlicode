@@ -2,11 +2,16 @@
 yifanlicode/yifanlicode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<div align="center">
 
 ### Hi there, I'm Yifan <a href="https://emoji.gg/emoji/9684-adorbs"><img src="https://cdn3.emoji.gg/emojis/9684-adorbs.png" width="26px" height="26px" alt="Adorbs"></a>
 
+</div>
+
+<br />
+
 - 👀 Passionate about coding and all things tech
-- 🌱 Currently mastering front-end and back-end web development at RRC Canada
+- 🌱 Leveling up in full stack web development at RRC Canada
 - 💻 Working on personal projects to apply what I've learned and improve my skills
 - 📫 yifanlicode@gmail.com
 
@@ -20,7 +25,6 @@ You can click the Preview link to take a look at your changes.
 ![Ruby on Rails](https://img.shields.io/badge/-Ruby_on_Rails-CC0000?style=flat-square&logo=ruby&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
