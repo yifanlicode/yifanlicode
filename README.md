@@ -11,8 +11,6 @@ You can click the Preview link to take a look at your changes.
 - 💻 Working on personal projects to apply what I've learned and improve my skills
 - 📫 yifanlicode@gmail.com
 
-![Gaming](https://media.giphy.com/media/xT9DPzhf1E3CjOuLS4/giphy.gif) ![Fitness](https://media.giphy.com/media/4HsSMmox1F6bGIv9S9/giphy.gif) ![Sports](https://media.giphy.com/media/1ZJLzyCTYzFg8/giphy.gif) ![Skiing](https://media.giphy.com/media/TGMX3CzI2G7NC/giphy.gif)
-
 
 📊 This Week I Spent My Time On:
 <!--START_SECTION:waka-->
