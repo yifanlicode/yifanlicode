@@ -2,20 +2,25 @@
 yifanlicode/yifanlicode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
 <div align="center">
-
-### Hi there, I'm Yifan <a href="https://emoji.gg/emoji/9684-adorbs"><img src="https://cdn3.emoji.gg/emojis/9684-adorbs.png" width="26px" height="26px" alt="Adorbs"></a>
-
+    <h3>Hi there, <span style="color: blue;">I'm Yifan</span> <a href="https://emoji.gg/emoji/9684-adorbs"><img src="https://cdn3.emoji.gg/emojis/9684-adorbs.png" width="26px" height="26px" alt="Adorbs"></a></h3>
 </div>
 
+
+
 <br />
+
+**About me**
 
 - 👀 Passionate about coding and all things tech
 - 🌱 Leveling up in full stack web development at RRC Canada
 - 💻 Working on personal projects to apply what I've learned and improve my skills
 - 📫 yifanlicode@gmail.com
 
-#### Languages and Skills
+<br />
+
+**Languages and Skills**
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
@@ -30,11 +35,17 @@ You can click the Preview link to take a look at your changes.
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![IDE](https://img.shields.io/badge/-IDE-000000?style=flat-square&logo=intellij-idea&logoColor=white)
 
+ <br />
+ 
+**Most Used Languages**
 
-#### Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yifanlicode&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-#### This Week I Spent My Time On📊 :
+
+<br />
+
+**This Week I Spent My Time On**
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
