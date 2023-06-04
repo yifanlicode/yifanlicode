@@ -51,14 +51,11 @@ You can click the Preview link to take a look at your changes.
 ```txt
 From: 02 June 2023 - To: 03 June 2023
 
-Total Time: 1 hr 5 mins
-
 Other        33 mins         >>>>>>>>>>>>>------------   51.02 %
 ERB          17 mins         >>>>>>>------------------   26.11 %
 Python       6 mins          >>-----------------------   09.61 %
 Ruby         5 mins          >>-----------------------   08.72 %
 Vim Script   2 mins          >------------------------   03.79 %
-CSS          0 secs          -------------------------   00.75 %
 ```
 
 <!--END_SECTION:waka-->
