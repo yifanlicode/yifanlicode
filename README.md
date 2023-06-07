@@ -47,16 +47,5 @@ You can click the Preview link to take a look at your changes.
 **This Week I Spent My Time On**
 
 <!--START_SECTION:waka-->
-
-```txt
-From: 02 June 2023 - To: 05 June 2023
-
-Ruby         1 hr 30 mins    >>>>>>>>>>>>>>>>>>>>-----   78.56 %
-Vim Script   11 mins         >>-----------------------   09.84 %
-Python       6 mins          >------------------------   05.51 %
-Markdown     3 mins          >------------------------   02.70 %
-Other        2 mins          -------------------------   01.91 %
-```
-
 <!--END_SECTION:waka-->
 
