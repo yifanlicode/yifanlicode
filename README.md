@@ -49,13 +49,13 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 June 2023 - To: 06 June 2023
+From: 02 June 2023 - To: 07 June 2023
 
-Ruby         7 hrs 20 mins   >>>>>>>>>>>>>>>>>>>>-----   79.10 %
-Markdown     1 hr 7 mins     >>>----------------------   12.16 %
-CSS          18 mins         >------------------------   03.41 %
-Vim Script   11 mins         >------------------------   02.03 %
-Python       6 mins          -------------------------   01.14 %
+Ruby             7 hrs 20 mins   >>>>>>>>>>>>>>>----------   59.39 %
+Python           2 hrs 51 mins   >>>>>>-------------------   23.21 %
+Markdown         1 hr 7 mins     >>-----------------------   09.13 %
+CSS              22 mins         >------------------------   03.04 %
+HTML             14 mins         -------------------------   01.94 %
 ```
 
 <!--END_SECTION:waka-->
