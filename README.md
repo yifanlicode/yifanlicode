@@ -49,7 +49,7 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 June 2023 - To: 11 June 2023
+From: 02 June 2023 - To: 12 June 2023
 
 Ruby             11 hrs 30 mins  >>>>>>>>>>>>>>-----------   57.61 %
 Python           4 hrs 30 mins   >>>>>>-------------------   22.57 %
