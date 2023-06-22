@@ -39,8 +39,7 @@ You can click the Preview link to take a look at your changes.
  
 **Most Used Languages**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yifanlicode&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 <br />
 
