@@ -4,10 +4,12 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <div align="center">
-    <h3>Hi there, <span style="color: blue;">I'm Yifan</span> <a href="https://emoji.gg/emoji/9684-adorbs"><img src="https://cdn3.emoji.gg/emojis/9684-adorbs.png" width="26px" height="26px" alt="Adorbs"></a></h3>
+    <h3>Hi there, <span style="color: blue;">I'm Yifan</span> <a href="https://emoji.gg/emoji/9684-adorbs"><img src="https://cdn3.emoji.gg/emojis/9684-adorbs.png" width="20px" height="20px" alt="Adorbs"></a></h3>
 </div>
 
-
+<div align="center">
+    <img src="https://s2.loli.net/2023/06/27/5x8U6mWybGYN21I.gif" width="120px" height="120px"  alt="A girl is coding sticker gif" >
+</div>
 
 <br />
 
@@ -46,6 +48,8 @@ You can click the Preview link to take a look at your changes.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 <br />
+
+
 
 **This Week I Spent My Time On**
 
