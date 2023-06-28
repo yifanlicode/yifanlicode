@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <div align="center">
-    <h3>Hi there, <span style="color: blue;">I'm Yifan</span> ></h3>
+    <h3>Hi there, <span style="color: blue;">I'm Yifan</span> </h3>
 </div>
 
 <div align="center">
