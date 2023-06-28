@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <div align="center">
-    <h3>Hi there, <span style="color: blue;">I'm Yifan</span> <a href="https://emoji.gg/emoji/9684-adorbs"><img src="https://cdn3.emoji.gg/emojis/9684-adorbs.png" width="20px" height="20px" alt="Adorbs"></a></h3>
+    <h3>Hi there, <span style="color: blue;">I'm Yifan</span> ></h3>
 </div>
 
 <div align="center">
@@ -15,9 +15,10 @@ You can click the Preview link to take a look at your changes.
 
 **About me**
 
-- 👀 Passionate about coding and all things tech
-- 🌱 Leveling up in full stack web development at RRC Canada
-- 💻 Working on personal projects to apply what I've learned and improve my skills
+- 👀 A Java(Type)Script, Python，PHP,Ruby, and (...more languages) user
+- 💻 I love Coding and debugging 
+- 📅 A full stack web development student at RRC Canada (now)
+- 😄 Actually, I hold a bachelor's degree in Economics in China
 - 📫 yifanlicode@gmail.com
 
 <br />
