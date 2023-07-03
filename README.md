@@ -57,13 +57,13 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 June 2023 - To: 01 July 2023
+From: 02 June 2023 - To: 02 July 2023
 
-Ruby               14 hrs 43 mins  >>>>>>>------------------   27.64 %
-TypeScript         12 hrs 3 mins   >>>>>>-------------------   22.65 %
-Python             11 hrs 20 mins  >>>>>--------------------   21.29 %
-Markdown           4 hrs 56 mins   >>-----------------------   09.29 %
-JSON               2 hrs 30 mins   >------------------------   04.71 %
+Ruby               14 hrs 43 mins  >>>>>>>------------------   27.47 %
+TypeScript         12 hrs 3 mins   >>>>>>-------------------   22.50 %
+Python             11 hrs 23 mins  >>>>>--------------------   21.25 %
+Markdown           4 hrs 58 mins   >>-----------------------   09.29 %
+JSON               2 hrs 30 mins   >------------------------   04.68 %
 ```
 
 <!--END_SECTION:waka-->
