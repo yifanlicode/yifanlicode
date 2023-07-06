@@ -1,10 +1,9 @@
 <!---
 yifanlicode/yifanlicode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
 
 <div align="center">
-    <h3>Hi there, <span style="color: blue;">I'm Yifan</span> </h3>
+    <h2>Hi there, <span style="color:#A263DC">I'm Yifan</span> </h3>
 </div>
 
 <div align="center">
@@ -15,9 +14,9 @@ You can click the Preview link to take a look at your changes.
 
 **About me**
 
-- 👀 A Java(Type)Script, Python，PHP,Ruby, and (...more languages) user
+- 👀 A Java(Type)Script, Python, PHP, Ruby and (...more languages) user
 - 💻 I thrive on the thrill of coding and unraveling bugs
-- 📚 Currently A full stack web development student at RRC， Canada
+- 📚 Currently A full stack web development student at RRC, Canada
 - 😄 Fun fact: Actually, I hold a bachelor's degree in Economics in China, but coding stole my heart
 - 📫 yifanlicode@gmail.com
 
