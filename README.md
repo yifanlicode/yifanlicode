@@ -15,7 +15,7 @@ yifanlicode/yifanlicode is a ✨ special ✨ repository because its `README.md` 
 **About me**
 
 - 👀 A Java(Type)Script, Python, PHP, Ruby and (...more languages) user
-- 💻 I thrive on the thrill of coding and unraveling bugs
+- 💻 I thrive on the thrill of coding and debugging
 - 📚 Currently A full stack web development student at RRC, Canada
 - 😄 Fun fact: Actually, I hold a bachelor's degree in Economics in China, but coding stole my heart
 - 📫 yifanlicode@gmail.com
