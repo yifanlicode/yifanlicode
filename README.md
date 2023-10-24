@@ -55,7 +55,7 @@ yifanlicode/yifanlicode is a ✨ special ✨ repository because its `README.md` 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 June 2023 - To: 21 October 2023
+From: 02 June 2023 - To: 23 October 2023
 
 Ruby               104 hrs 33 mins >>>>>>>>>----------------   37.21 %
 JavaScript         90 hrs 4 mins   >>>>>>>>-----------------   32.06 %
